@@ -4,10 +4,9 @@ const mongoose = require("mongoose");
 const blogRoutes = require("./routes/blogRoutes");
 //express app
 const app = express();
-
 //connect to mangoDB
 const dbURI =
-  "mongodb+srv://NetNinja:test1234@cluster0.6zk0j.mongodb.net/node-js?retryWrites=true&w=majority";
+  "mongodb+srv://Ahmad:vonbiq-5moCri-vicdyn@cluster0.6zk0j.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
 
 mongoose
   .connect(dbURI, { useNewUrlParser: true, useUnifiedTopology: true })
