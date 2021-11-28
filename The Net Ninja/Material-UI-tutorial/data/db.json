@@ -7,12 +7,6 @@
       "id": 1
     },
     {
-      "title": "Complete my ninja training",
-      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
-      "category": "work",
-      "id": 2
-    },
-    {
       "title": "Order a pizza!",
       "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
       "category": "todos",
@@ -41,6 +35,18 @@
       "details": "Text messaging, or texting, is the act of composing and sending electronic messages, typically consisting of alphabetic and numeric characters, between two or more users of mobile devices, desktops/laptops, or another type of compatible computer. Wikipedia",
       "category": "money",
       "id": 7
+    },
+    {
+      "title": "nsjfvn",
+      "details": "sjdfjsd",
+      "category": "todos",
+      "id": 8
+    },
+    {
+      "title": "jnejnfj",
+      "details": "sdjhsb",
+      "category": "todos",
+      "id": 9
     }
   ]
 }

@@ -10,6 +10,7 @@ const BlogDetails = () => {
     error,
     isPending,
   } = useFetch("http://localhost:8000/blogs/" + id);
+  
   const history = useHistory();
 
   const handleClick = () => {
